@@ -1,0 +1,8 @@
+venv/
+.idea/
+db_handler.py
+
+__pycache__/
+satrlar.ppt
+file.txt
+env
